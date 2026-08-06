@@ -1,0 +1,8 @@
+# snapshots are local backups, not repo content
+_vault-guard/snapshots/
+
+# editor and OS noise
+.obsidian/workspace*
+.DS_Store
+Thumbs.db
+__pycache__/
